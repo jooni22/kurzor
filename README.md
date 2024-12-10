@@ -1,0 +1,2 @@
+# kurzor
+Kurzor IDE
