@@ -2,9 +2,9 @@
 name = "kurzorisdead"
 version = "0.0.1"
 edition = "2021"
-authors = ["Kory Kim"]
-description = "A CLI tool to manage Cursor configuration files."
-url = "https://github.com/korykim/cursormate"
+authors = ["Nobody"]
+description = "Magic."
+url = "https://github.com/jooni22/kurzor"
 
 [dependencies]
 uuid = { version = "1.4.1", features = ["v4"] }
